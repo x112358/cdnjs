@@ -6,8 +6,8 @@
     "type": "git",
     "url": "git://github.com/skidding/dragdealer.git"
   },
-  "license": "MIT",
   "dependencies": {},
+  "license": "MIT",
   "filename": "dragdealer.min.js",
   "keywords": [
     "dragdealer"
